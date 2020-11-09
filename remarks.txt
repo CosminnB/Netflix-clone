@@ -1,3 +1,0 @@
--Subtle things, small tweaks like fade-ins, animations are the best
--npm i react-youtube, movie-trailer
--firebase setup: firebase login, firebase init -> hosting -> existing app -> build -> y -> npm run build ->firebase deploy
